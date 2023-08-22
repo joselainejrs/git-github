@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="https://github.com/joselainejrs/marvel/blob/main/web/src/assets/img/logo.png" width="150px" alt="Imagem">
+  <img  src="https://github.com/joselainejrs/git-github/blob/main/image.png" width="150px" alt="Imagem">
 </p>
 
 <h4 align="center">
