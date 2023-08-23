@@ -40,7 +40,7 @@ Link: `https://github.com/`
 Os próximos passos para criar uma conta na plataforma é bastante intuitivos
 
 ### Configuração da maquina
-- Com a pasta aberta e tudo pronto para subir algo, o primeiro comando que rodamos no terminal é:
+#### Com a pasta aberta e tudo pronto para subir algo, o primeiro comando que rodamos no terminal é:
 
 ```
 $ git config --global user.email "seu e-mail"
@@ -48,7 +48,7 @@ $ git config --global user.name "seu usuário"
 
 ```
 
-- Inicializar um projeto
+#### Outros comandos
   
 ```
 $ git init
@@ -57,6 +57,7 @@ $ git add .  (processo para adicionar o arquivo);
 $ git commit -m  "descrição";
 $ git log  ver o histórico de commits
 $ git push (para subir o código)
+$ git remote add origin (link do repositório) Indica qual repositório do Git estará relacionado ao diretório local.
 ```
 
 
